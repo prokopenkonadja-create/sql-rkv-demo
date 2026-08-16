@@ -1,10 +1,10 @@
-- RKV SQL Demo Relationel databasestruktur
+# RKV SQL Demo Relationel databasestruktur
   **Udvikler:** Nadiia Prokopenko
   **Uddannelse:** Data- og kommunikationsuddannelsen (Programmering) - TEC Ballerup
   ---
 
   ## Projektoversigt
-  Dette repository indeholder et relationelt databaseskema (DDL $ DML) oprettet til min **RKV-vurdering**. Det forbinder mine praktiske projekter med mine læringsforløb i HTML/CSS/JS, C# og SQL ved hjælp af **Primary** og **Foreign Keys**.
+  Dette repository indeholder et relationelt databaseskema (DDL & DML) oprettet til min **RKV-vurdering**. Det forbinder mine praktiske projekter med mine læringsforløb i HTML/CSS/JS, C# og SQL ved hjælp af **Primary** og **Foreign Keys**.
 
   ---
 
@@ -16,7 +16,9 @@
 
     ## Eksempel på forespørrgsel (INNER JOIN)
 
-    '''sql
+    ```sql
     SELECT projects.title. technologies.tech_name, technologies.category'
     FROM projects
     JOIN technologies ON projects.primary_tech_id = technologies.tech_id;
+    ```
+[Åbn interaktiv DB Fiddle](https://www.db-fiddle.com/f/hi5enk3Y1ezLjPzMVLzcGQ/0)
