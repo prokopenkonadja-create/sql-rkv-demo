@@ -1,10 +1,8 @@
 # RKV SQL Demo Relationel databasestruktur
   **Udvikler:** Nadiia Prokopenko
-  **Uddannelse:** Data- og kommunikationsuddannelsen (Programmering) - TEC Ballerup
-  ---
-
+  
   ## Projektoversigt
-  Dette repository indeholder et relationelt databaseskema (DDL & DML) oprettet til min **RKV-vurdering**. Det forbinder mine praktiske projekter med mine læringsforløb i HTML/CSS/JS, C# og SQL ved hjælp af **Primary** og **Foreign Keys**.
+  Dette repository indeholder et relationelt databaseskema (DDL & DML). Det forbinder mine praktiske projekter med mine læringsforløb i HTML/CSS/JS, C# og SQL ved hjælp af **Primary** og **Foreign Keys**.
 
   ---
 
