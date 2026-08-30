@@ -1,4 +1,4 @@
-# RKV SQL Demo Relationel databasestruktur
+# SQL Demo Relationel databasestruktur
   **Udvikler:** Nadiia Prokopenko
   
   ## Projektoversigt
